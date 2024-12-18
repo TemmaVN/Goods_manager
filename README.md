@@ -1,1 +1,2 @@
 # Goods_manager
+Hàng hóa quản lý trong kho của một siêu thị gồm có hàng thực phẩm, hàng điện máy, hàng may mặc Mỗi loại hàng đều có mã hàng, tên hàng, số lượng tồn (>=0), đơn giá (>0), trị giá tồn. Hàng thực phẩm: thêm thông tin ngày sản xuất, ngày hết hạn, nhà cung cấp. Hàng điện máy: thêm thời gian bảo hành (số tháng>=0), công suất KW (>0), chủng loại. Hàng may mặc: thêm thông tin nhà sản xuất và ngày nhập kho.
